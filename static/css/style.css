@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: linen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+tr{
+    display: flex;
+}
+
+td{
+    background-color:aqua;
+    flex-basis: 50px;
+    height: 50px;
+}
+.color1{
+    background-color:gold;
+}
+.color2{
+    background-color:brown;
+}
